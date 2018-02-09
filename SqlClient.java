@@ -72,9 +72,6 @@ public class SqlClient {
 	/**
 	 *简单添加一个main方法
 	 */
-	 public static void main(String[] args){
-	    System.out.println("hi~,github,this is my first change");
-	 }
 	 
 
 	/**
