@@ -74,7 +74,6 @@ public class SqlClient {
 	 */
 	 public static void main(String[] args){
 	    System.out.println("hi~,github,this is my first change");
-		System.out.println("hi~,github,this is my second change");
 	 }
 	 
 
